@@ -1,0 +1,8 @@
+Parameters
+
+Futures
+
+De 1 à 12 mois
+Convexity adjustment: enabled
+Mean-reversion coefficient: 0.03
+Volatility: 0.511%
